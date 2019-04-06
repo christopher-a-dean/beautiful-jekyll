@@ -63,11 +63,8 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
-  email: "mailto:christopher.allen.dean@gmail.com"
-#  facebook: daattali
+  email: "christopher.allen.dean@gmail.com"
   github: Tpimp
-#  twitter: daattali
   reddit: therealtpimp
   linkedin: tpimp
   
@@ -107,21 +104,6 @@ url-pretty: "christopher-a-dean.github.io"  # eg. "deanattali.com/beautiful-jeky
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
-
-# --- Comments --- #
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
-# If you want to use just-comments fill with the API Key
-#just-comments: "ABCD-EFGH-IJKL"
-
-# To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
-
 # Staticman support
 staticman:
   repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
@@ -132,11 +114,6 @@ staticman:
     # If you use reCaptcha, you must also set these parameters in staticman.yml
     siteKey  : # Use your own site key, you need to apply for one on Google
     secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
-
-# --- Misc --- #
-
-# Facebook App ID
-# fb_app_id: ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
@@ -244,8 +221,5 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
 
 theme: jekyll-theme-hacker
