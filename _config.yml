@@ -17,8 +17,8 @@ description: A showcase of my coding projects
 
 # List of links in the navigation bar
 navbar-links:
-  Availability: "http://christopher-a-dean.github.io/Availability"
-  Projects: "http://christopher-a-dean.github.io/Projects"
+  Availability: "availability"
+  Projects: "projects"
   GitHub Page: "https://github.com/Tpimp"
   About Me: "aboutme"
 
