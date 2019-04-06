@@ -1,0 +1,1 @@
+# Obtained Qt Specialist Certification
