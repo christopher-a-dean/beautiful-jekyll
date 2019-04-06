@@ -57,28 +57,21 @@ footer-link-col: "#f39933"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Christopher Dean
-
-# Select your active Social Network Links.
-# Uncomment the links you want to show in the footer and add your information to each link.
-# You can reorder the items to define the link order.
-# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
-social-network-links:
   email: "christopher.allen.dean@gmail.com"
   github: Tpimp
   reddit: therealtpimp
   linkedin: tpimp
-  
+ 
+# Select which links to show in the footer
 footer-links-active:
   rss: false
   facebook: false
   email: true
   twitter: false
   github: true
-  reddit: true
   linkedin: true
   stackoverflow: false
-
-# Select which share links to show in posts
+  
 share-links-active:
   twitter: true
   facebook: true
