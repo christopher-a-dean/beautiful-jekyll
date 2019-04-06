@@ -17,10 +17,10 @@ description: A showcase of my coding projects
 
 # List of links in the navigation bar
 navbar-links:
-  Availability: "http://christopher-a-dean.github.io/Availability"
-  Projects: "http://christopher-a-dean.github.io/Projects"
+  Availability: "availability"
+  Projects: "projects"
   GitHub Page: "https://github.com/Tpimp"
-  About Me:"aboutme"
+  About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -37,7 +37,7 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "#2e161d"
 navbar-text-col: "#f39933"
 navbar-children-col: "#5b2337"
-page-col: "#a67871"
+page-col: "#FEF6D3"
 link-col: "#5b2337"
 hover-col: "#f39933"
 footer-col: "#5b2337"
