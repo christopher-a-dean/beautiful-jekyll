@@ -57,7 +57,7 @@ footer-link-col: "#f39933"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Christopher Dean
-  email: "christopher.allen.dean@gmail.com"
+  email: "mailto:christopher.allen.dean@gmail.com"
   github: Tpimp
   reddit: therealtpimp
   linkedin: tpimp
