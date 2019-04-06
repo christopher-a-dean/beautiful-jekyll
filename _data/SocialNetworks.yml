@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+email:
+  name: "Email me"
+  baseURL: "mailto:"
+  icon: "fa-envelope"
+
 github:
   name: "GitHub"
   baseURL: "https://github.com/"
