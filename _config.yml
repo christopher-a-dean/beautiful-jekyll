@@ -20,7 +20,7 @@ navbar-links:
   Availability: "http://christopher-a-dean.github.io/Availability"
   Projects: "http://christopher-a-dean.github.io/Projects"
   GitHub Page: "https://github.com/Tpimp"
-  About Me:"aboutme"
+  About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
