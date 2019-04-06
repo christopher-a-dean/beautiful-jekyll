@@ -70,13 +70,21 @@ social-network-links:
 #  twitter: daattali
   reddit: therealtpimp
   linkedin: tpimp
+  
+footer-links-active:
+  rss: false
+  facebook: false
+  email: true
+  twitter: false
+  github: true
+  reddit: true
+  linkedin: true
+  stackoverflow: false
 
 # Select which share links to show in posts
 share-links-active:
-  github: true
-  reddit: true
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   google: false
   linkedin: true
 
