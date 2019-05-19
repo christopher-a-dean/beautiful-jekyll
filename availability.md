@@ -6,6 +6,7 @@ subtitle: Available for Full time and Contract Jobs
 ![I am Available for Full time and Contract Job hires](https://github.com/christopher-a-dean/christopher-a-dean.github.io/blob/master/gallery/available%20logo.gif?raw=true "Available to Hire")
 
 ### Hiring Rate (Currently)
+
 | Type of Work     |     Cost $ |
 |----------|-----------:|
 | **Software Contract Bid/ Analysis** | $25 per hour |
