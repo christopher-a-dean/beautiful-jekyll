@@ -1,6 +1,7 @@
-# Visual Showcase of My Projects
-#### This page will eventually be an html personalized page with dynamic loading (Under Construction)
-#### I will add more gifs eventually as well
+layout: page
+title: Visual Porfolio
+subtitle: Under Construction
+---
 
 ## Games Created CST211 
 #### Minesweeper Built with Qt GaphicsView Spring 2011 CST211 Data Structures
