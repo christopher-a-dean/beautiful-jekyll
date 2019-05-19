@@ -3,6 +3,7 @@ layout: page
 title: 
 subtitle: Available for Full time and Contract Jobs
 ---
+
 ![I am Available for Full time and Contract Job hires](https://github.com/christopher-a-dean/christopher-a-dean.github.io/blob/master/gallery/available%20logo.gif?raw=true "Available to Hire")
 
 ### Hiring Rate (Currently)
