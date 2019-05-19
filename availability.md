@@ -9,8 +9,8 @@ subtitle: Available for Full time and Contract Jobs
 | Type of Work     |     Cost $ |  
 | --- | --- |
 | Software Contract Bid/ Analysis | $25 per hour |
-| Consulting Work (Video conference or Phone) | $35 |
-| Website/Web Stack Development Work | $40 |
-| Qt Work (software Job) | $50 |
+| Consulting Work (Video conference or Phone) | $35 per hour |
+| Website/Web Stack Development Work | $40 per hour |
+| Qt Work (software Job) | $50 per hour |
 
 I am willing to do Applications and Websites at a negotiated flatrate. This requires several hours of analysis and a Bid to be generated for the job. I will commit to the Bid/Estimate I send you. If there is a work change order during the duration of the original Bid, a new estimate will be generated and agreed upon before I commit to the work change order.
